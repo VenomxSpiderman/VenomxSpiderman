@@ -12,8 +12,7 @@
 </p>
 
 - 🌱 I’m currently learning **Java Spring**
-- 📝 I regularly write articles on [https://medium.com/@tathagatasur](https://medium.com/@tathagatasur)
-- 💬 Ask me about **Java,Python,C,C++,Linux**
+- 💬 Ask me about **Java,Python,C,C++,Linux/Unix Shell**
 - 📫 How to reach me **bayernchamps2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
