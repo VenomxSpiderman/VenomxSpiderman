@@ -12,8 +12,8 @@
 </p>
 
 - 🌱 I’m currently learning **Java Spring**
-- 💬 Ask me about **Java,Python,C,C++,Linux/Unix Shell**
-- 📫 How to reach me **bayernchamps2020@gmail.com**
+- 💬 Ask me about **Java, Python, C, C++, Linux/Unix Shell**
+- 📫 How to reach me **tathagatasur94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
