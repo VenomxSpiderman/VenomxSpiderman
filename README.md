@@ -11,7 +11,6 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Java Spring**
 - 💬 Ask me about **Java, Python, C, C++, Linux/Unix Shell**
 - 📫 How to reach me **tathagatasur94@gmail.com**
 
@@ -19,9 +18,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/tathagata06" target="__blank" style="margin-right: 20px;">
     <img align="center" src="LD.png" alt="tathagata sur" height="40" width="40" />
-  </a>
-  <a href="https://medium.com/@tathagatasur" target="blank" style="margin-right: 20px;">
-    <img align="center" src="Med.png" alt="@tathagatasur" height="40" width="40" />
   </a>
   <a href="https://www.codechef.com/users/logan006" target="blank" style="margin-right: 20px;">
     <img align="center" src="CC.png" alt="logan006" height="40" width="40" />
