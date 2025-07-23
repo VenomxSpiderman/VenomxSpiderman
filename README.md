@@ -16,20 +16,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/tathagata06" target="blank" style="margin-right: 20px;">
-    <img align="center" src="LD.png" alt="tathagata sur" height="40" width="40" />
+  <a href="https://linkedin.com/in/tathagata06" target="blank">
+    <img align="center" src="LD.png" alt="tathagata sur linkedin" height="40" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/logan006" target="blank" style="margin-right: 20px;">
-    <img align="center" src="CC.png" alt="logan006" height="40" width="40" />
+  <a href="https://www.codechef.com/users/logan006" target="blank">
+    <img align="center" src="CC.png" alt="logan006 codechef" height="40" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/halfblood007" target="blank" style="margin-right: 20px;">
-    <img align="center" src="CF.jpg" alt="halfblood007" height="40" width="40" />
+  <a href="https://codeforces.com/profile/halfblood007" target="blank">
+    <img align="center" src="CF.jpg" alt="halfblood007 codeforces" height="40" width="40" />
   </a>
-  <a href="https://www.leetcode.com/venomxspiderman" target="blank" style="margin-right: 20px;">
-    <img align="center" src="LC.png" alt="venomxspiderman" height="40" width="40" />
-  </a>
-  <a href="https://medium.com/@tathagatasur94" target="blank" style="margin-right: 20px;">
-    <img align="center" src="Med.png" alt="tathagata sur medium" height="40" width="40" />
+  <a href="https://www.leetcode.com/venomxspiderman" target="blank">
+    <img align="center" src="LC.png" alt="venomxspiderman leetcode" height="40" width="40" />
   </a>
 </p>
 
@@ -70,14 +67,17 @@
   </a>
 </p>
 
-<p>
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venomxspiderman&show_icons=true&locale=en&layout=compact" alt="venomxspiderman" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venomxspiderman&show_icons=true&locale=en" alt="venomxspiderman" />
+<p>&nbsp;</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=venomxspiderman&show_icons=true&locale=en" alt="venomxspiderman" />
 </p>
 
-<p>
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venomxspiderman&" alt="venomxspiderman" />
 </p>
