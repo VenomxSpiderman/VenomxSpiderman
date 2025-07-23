@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=venomxspiderman&label=Profile%20views&color=0e75b6&style=flat" alt="venomxspiderman" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=venomxspiderman" alt="venomxspiderman" />
-  </a> 
-</p>
-
 - 💬 Ask me about **Java, Python, C, C++, Linux/Unix Shell**
 - 📫 How to reach me **tathagatasur94@gmail.com**
 
