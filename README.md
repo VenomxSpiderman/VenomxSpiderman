@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/tathagata06" target="__blank" style="margin-right: 20px;">
+  <a href="https://linkedin.com/in/tathagata06" target="blank" style="margin-right: 20px;">
     <img align="center" src="LD.png" alt="tathagata sur" height="40" width="40" />
   </a>
   <a href="https://www.codechef.com/users/logan006" target="blank" style="margin-right: 20px;">
@@ -27,6 +27,9 @@
   </a>
   <a href="https://www.leetcode.com/venomxspiderman" target="blank" style="margin-right: 20px;">
     <img align="center" src="LC.png" alt="venomxspiderman" height="40" width="40" />
+  </a>
+  <a href="https://medium.com/@tathagatasur94" target="blank" style="margin-right: 20px;">
+    <img align="center" src="Med.png" alt="tathagata sur medium" height="40" width="40" />
   </a>
 </p>
 
