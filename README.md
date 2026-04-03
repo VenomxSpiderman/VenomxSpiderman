@@ -3,8 +3,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- � Ask me about **Java, Python, C, C++, Linux/Unix Shell**
-- 📫 How to reach me **tathagatasur94@gmail.com**
+- Ask me about **Java, Python, C/C++, Next.js/Node.js, Advanced DSA, OS, CN, CoA & AI technologies**
+- - How to reach me **tathagatasur94@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=venomxspiderman&color=447ff7&label=Visitor+count)
 
@@ -44,13 +44,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## � GitHub Stats:
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venomxspiderman&show_icons=true&locale=en&layout=compact" alt="venomxspiderman" />
-</p>
-
-<p>&nbsp;</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=venomxspiderman&show_icons=true&locale=en" alt="venomxspiderman" />
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-phi-eight-50.vercel.app/api/top-langs?username=venomxspiderman&show_icons=true&locale=en&layout=compact" height="195" alt="top languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-phi-eight-50.vercel.app/api?username=venomxspiderman&show_icons=true&locale=en" height="195" alt="github stats" />
+  </a>
 </p>
