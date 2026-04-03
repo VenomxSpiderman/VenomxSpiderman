@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - Ask me about **Java, Python, C/C++, Next.js/Node.js, Advanced DSA, OS, CN, CoA & AI technologies**
-- - How to reach me **tathagatasur94@gmail.com**
+- How to reach me **tathagatasur94@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=venomxspiderman&color=447ff7&label=Visitor+count)
 
