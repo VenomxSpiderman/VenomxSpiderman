@@ -70,6 +70,3 @@
     <img src="https://github-readme-stats-phi-eight-50.vercel.app/api?username=venomxspiderman&show_icons=true&locale=en&theme=radical" height="195" alt="github stats" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venomxspiderman&theme=radical" alt="GitHub Streak" />
-</p>
